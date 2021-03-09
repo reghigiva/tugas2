@@ -1,0 +1,27 @@
+.leftlinks a {
+	display: block; margin: 3px 0px; 
+	border-top: 3px solid #D2FDFF;
+	border-left: 3px solid #D2FDFF;
+	border-right: 3px solid #B4DFE5;
+	border-bottom: 3px solid #B4DFE5;
+	padding: 4px 10px;
+	font-family: times new roman;
+	text-align: center;
+	background: #FF66FF;
+	color: #000000;
+	text-decoration: none;
+}
+
+.leftlinks a:hover {
+	display: block; margin: 3px 0px; 
+	border-top: 3px solid #D2FDFF;
+	border-left: 3px solid #D2FDFF;
+	border-right: 3px solid #B4DFE5;
+	border-bottom: 3px solid #B4DFE5;
+	padding: 4px 10px;
+	font-family: times new roman;
+	text-align: center;
+	background: #FF66FF;
+	color: #000000;
+	text-decoration: none;
+}
